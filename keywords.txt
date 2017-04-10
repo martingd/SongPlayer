@@ -1,0 +1,32 @@
+#######################################
+# Syntax coloring map for
+# SonPlayer library
+#######################################
+
+#######################################
+# Datatypes & Classes (KEYWORD1)
+####################################### 
+songplayer  KEYWORD1
+
+Note        KEYWORD1
+SongPlayer  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+rewind  KEYWORD2
+worker  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+####################################### 
+
+duration_1_8      LITERAL1
+duration_1_4      LITERAL1
+duration_3_8      LITERAL1
+duration_1_2      LITERAL1
+duration_3_4      LITERAL1
+duration_1_1      LITERAL1
+
+EndOfSongSegment  LITERAL1
